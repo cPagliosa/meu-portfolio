@@ -102,7 +102,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-          "baseHref": "",
+          "baseHref": "https://cpagliosa.github.io/meu-portfolio/",
           "repo": "https://github.com/cPagliosa/meu-portfolio.git"
           }
         }
