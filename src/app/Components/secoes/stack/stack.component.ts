@@ -16,8 +16,10 @@ export class StackComponent {
     { titulo: "TypeScript" },
     { titulo: "Node.js" },
     { titulo: "Java" },
+    { titulo: "C#" },
+    { titulo: "Phyton" },
     { titulo: "Entity Framework" },
     { titulo: "Microsoft SQL Server" },
-    { titulo: "MySQL" },
+    { titulo: "SQL" },
   ];
 }
